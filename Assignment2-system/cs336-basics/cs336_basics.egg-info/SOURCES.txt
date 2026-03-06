@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+cs336_basics/__init__.py
+cs336_basics/data.py
+cs336_basics/model.py
+cs336_basics/nn_utils.py
+cs336_basics/optimizer.py
+cs336_basics.egg-info/PKG-INFO
+cs336_basics.egg-info/SOURCES.txt
+cs336_basics.egg-info/dependency_links.txt
+cs336_basics.egg-info/requires.txt
+cs336_basics.egg-info/top_level.txt
