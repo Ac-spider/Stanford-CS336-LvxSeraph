@@ -1,4 +1,4 @@
-# CS336 Spring 2024 Assignment 1: Basics
+# CS336 Spring 2024 Assignment 2: Systems
 
 This folder contains the files from assignment 1 that you'll need for assignment
 2, so you can do assignment 2 without having done assignment 1. **If you've
