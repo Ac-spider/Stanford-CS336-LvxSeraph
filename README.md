@@ -3,6 +3,7 @@
 > Stanford CS336: Language Modeling from Scratch — 个人作业记录
 
 本仓库包含斯坦福 CS336 课程的全部作业实现，从零构建大语言模型的核心组件，涵盖 Tokenizer、Transformer 架构、系统优化、数据处理和对齐训练。
+代码注释工作由AI辅助完成。
 
 ## 课程简介
 
